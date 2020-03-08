@@ -1,0 +1,10 @@
+{"index": "1", "image": "https://p0.meituan.net/movie/ce4da3e03e655b5b88ed31b5cd7896cf62472.jpg@160w_220h_1e_1c", "title": "霸王别姬", "actor": "周星驰,莫文蔚,张柏芝", "time": "1999-02-13(中国香港)", "score": "9.1"}
+{"index": "11", "image": "https://p1.meituan.net/movie/ba1ed511668402605ed369350ab779d6319397.jpg@160w_220h_1e_1c", "title": "天空之城", "actor": "金·凯瑞,劳拉·琳妮,诺亚·艾默里奇", "time": "1998(罗马尼亚)", "score": "8.9"}
+{"index": "21", "image": "https://p0.meituan.net/movie/606de8f394d40dbcbb9b87943fec71a2130408.jpg@160w_220h_1e_1c", "title": "无间道", "actor": "葛优,巩俐,牛犇", "time": "1994-05-17(法国)", "score": "9.0"}
+{"index": "31", "image": "https://p1.meituan.net/movie/a2a287c77415dc1f85b04d288f7d63ab1089754.jpg@160w_220h_1e_1c", "title": "拯救大兵瑞恩", "actor": "娜塔莉·波特曼,雨果·维文,斯蒂芬·瑞", "time": "2005-12-11(美国)", "score": "8.8"}
+{"index": "41", "image": "https://p1.meituan.net/movie/7d1d85610651dbe1c8687781a87d1008184950.jpg@160w_220h_1e_1c", "title": "当幸福来敲门", "actor": "苏拉·沙玛,伊尔凡·可汗,塔布", "time": "2012-11-22", "score": "9.1"}
+{"index": "51", "image": "https://p0.meituan.net/movie/2e383b5f5f306f10f9f26d9f1c28cf1d825537.jpg@160w_220h_1e_1c", "title": "黑客帝国3：矩阵革命", "actor": "罗素·克洛,詹妮弗·康纳利,艾德·哈里斯", "time": "2001-12-13(美国)", "score": "8.8"}
+{"index": "61", "image": "https://p0.meituan.net/movie/f7f4b4099773268f8290ed033f49dc01377512.jpg@160w_220h_1e_1c", "title": "蝙蝠侠：黑暗骑士崛起", "actor": "马里奥·毛瑞尔,平采娜·乐维瑟派布恩,阿查拉那·阿瑞亚卫考", "time": "2012-06-05", "score": "8.8"}
+{"index": "71", "image": "https://p1.meituan.net/movie/2a0783b4fd95566568f24adfad2181bb5392280.jpg@160w_220h_1e_1c", "title": "熔炉", "actor": "柳承龙,郑镇荣,朴信惠", "time": "2013-01-23(韩国)", "score": "8.9"}
+{"index": "81", "image": "https://p1.meituan.net/movie/640cc32445df972b066c9a04b194da141104515.jpg@160w_220h_1e_1c", "title": "借东西的小人阿莉埃蒂", "actor": "吴念真,金燕玲,李凯莉", "time": "2000-05-15(法国)", "score": "8.9"}
+{"index": "91", "image": "https://p0.meituan.net/movie/c304c687e287c7c2f9e22cf78257872d277201.jpg@160w_220h_1e_1c", "title": "龙猫", "actor": "蒂姆·罗斯,比尔·努恩,克兰伦斯·威廉姆斯三世", "time": "2019-11-15", "score": "9.3"}
